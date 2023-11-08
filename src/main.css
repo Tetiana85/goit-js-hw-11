@@ -52,6 +52,9 @@ body {
     background-color: #fff;
     color: #6495ed;
 }
+.load-more {
+    display: none;
+}
 
 .gallery {
     position: relative;
@@ -121,4 +124,3 @@ body {
 .gallery-card__info--item b {
     display: block;
 }
-
